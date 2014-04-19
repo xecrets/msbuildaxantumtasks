@@ -59,6 +59,7 @@
     <Compile Include="LatestTfsChangesetTask.cs" />
     <Compile Include="PrettyPrintXmlTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TemplateFileTask.cs" />
     <Compile Include="WixComponentTask.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
