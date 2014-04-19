@@ -1,0 +1,6 @@
+syntax: glob
+bin
+MSBuild.Axantum.Tasks.csproj.user
+*.DotSettings
+*.suo
+obj
